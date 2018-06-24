@@ -2,7 +2,7 @@ app    PublicRobo1                  =  Robots Invade London
        author                       =  philiprbrenan                                                                                            
        description                  =  v050418 Robo1                                                      
        email                        =  coreliuorg@gmail.com                                                                             
-       emphasis                     =  15                                                                                               
+       emphasis                      =  15                                                                                               
        icon                         =  IMG_5718.jpg 
        logoText                     =  Public Robo 1, Coreliu
        
